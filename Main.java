@@ -6,7 +6,7 @@ public class Main{
         int fechaDeLanzamiento = 1999;
         System.out.println(fechaDeLanzamiento);
         boolean incluidoEnElPan = true;
-        double notaPelicula = 8.2;
+        double notaPelicula = 9.2;
 
         double promedioPelicula = (8.2 + 6.2 + 4.1) / 3;
         System.out.println(promedioPelicula);
