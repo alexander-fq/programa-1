@@ -3,7 +3,7 @@ public class deciciones {
         
         int fechaDeLanzamiento = 1999;
         System.out.println(fechaDeLanzamiento);
-        boolean incluidoEnElPan = false;
+        boolean incluidoEnElPan = true;
         double notaPelicula = 9.2;
         
         String tipoDePlan = "plus";

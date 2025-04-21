@@ -14,5 +14,6 @@ public class loops {
             mediaNota = mediaNota + nota;
             
         }
+        System.out.println(mediaNota /3);
     }
 }
